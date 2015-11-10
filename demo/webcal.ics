@@ -1,0 +1,1080 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:MBSportsWeb
+METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+NAME:Windsor_Jr_Spitfires_AAA
+X-WR-CALNAME:Windsor_Jr_Spitfires_AAA
+DESCRIPTION: Information provided by www.windsoraaazone.net, powered by MBSportsWeb (www.mbsportsweb.ca).  This feed is set to refresh every 6 hours, however, each device or program consuming the feed may choose to update more or less often than that.
+X-WR-CALDESC: Information provided by www.windsoraaazone.net, powered by MBSportsWeb (www.mbsportsweb.ca).  This feed is set to refresh every 6 hours, however, each device or program consuming the feed may choose to update more or less often than that.
+BEGIN:VEVENT
+DTSTART:20150826T231500Z
+DTEND:20150827T004500Z
+LOCATION:WFCU - Greenshield
+UID:MS-15393-windsoraaazone.net
+DTSTAMP:20150827T110850Z
+SUMMARY:Minor Atom (06) - Game @ Sun County Panthers(T 3-3)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Sun County Panthers 7:15-8:45\r\n\r\nMAP: http://maps.google.com?q=WFCU+-+Greenshield
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150422T210000Z
+DTEND:20150422T223000Z
+LOCATION:Essex Arena
+UID:MS-14163-windsoraaazone.net
+DTSTAMP:20150418T124700Z
+SUMMARY:Minor Atom (06) - Game @ Sun County Panthers
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Sun County Panthers 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Essex+Arena
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151106T211500Z
+DTEND:20151106T224500Z
+LOCATION:Chesswood Arena
+UID:MS-15485-windsoraaazone.net
+DTSTAMP:20151108T034721Z
+SUMMARY:Minor Atom (06) - Game @ Halton Hurricanes(L 2-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Halton Hurricanes 4:15-5:45\r\n\r\nMAP: http://maps.google.com?q=Chesswood+Arena
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151011T160000Z
+DTEND:20151011T173000Z
+LOCATION:RIM Park (Pillers)
+UID:MS-15137-windsoraaazone.net
+DTSTAMP:20151011T175315Z
+SUMMARY:Minor Atom (06) - Game @ Waterloo Wolves [PMA96](T 4-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Waterloo Wolves 12:00-1:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191883
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151129T180000Z
+DTEND:20151129T193000Z
+LOCATION:Galt Arena
+UID:MS-15140-windsoraaazone.net
+DTSTAMP:20150802T151206Z
+SUMMARY:Minor Atom (06) - Game @ Cambridge Hawks [PMA18]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Cambridge Hawks 1:00-2:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191819
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151128T230000Z
+DTEND:20151129T003000Z
+LOCATION:Gretzky Center (#2)
+UID:MS-15162-windsoraaazone.net
+DTSTAMP:20150702T221824Z
+SUMMARY:Minor Atom (06) - Game @ Brantford 99ers [PMA02]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Brantford 99ers 6:00-7:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191803
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151128T180000Z
+DTEND:20151128T193000Z
+LOCATION:Chedoke (Blue)
+UID:MS-15168-windsoraaazone.net
+DTSTAMP:20150702T232222Z
+SUMMARY:Minor Atom (06) - Game @ Hamilton Huskies [PMA40]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Hamilton Huskies 1:00-2:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191835
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151010T213000Z
+DTEND:20151010T230000Z
+LOCATION:Activa (PJD)
+UID:MS-15186-windsoraaazone.net
+DTSTAMP:20151010T224219Z
+SUMMARY:Minor Atom (06) - Game @ Kitchener Jr Rangers [PMA68](T 4-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Kitchener Jr Rangers 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191867
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151010T170000Z
+DTEND:20151010T183000Z
+LOCATION:Milverton Arena
+UID:MS-15187-windsoraaazone.net
+DTSTAMP:20151010T180119Z
+SUMMARY:Minor Atom (06) - Game @ Huron-Perth Lakers [PMA49](W 5-2)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Huron-Perth Lakers 1:00-2:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191851
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151025T191500Z
+DTEND:20151025T204500Z
+LOCATION:Western Fair (Wastell)
+UID:MS-15248-windsoraaazone.net
+DTSTAMP:20151026T000316Z
+SUMMARY:Minor Atom (06) - Game @ London Jr Knights [PMA151](L 3-6)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ London Jr Knights 3:15-4:45\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191941
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151101T201500Z
+DTEND:20151101T214500Z
+LOCATION:Western Fair (Wastell)
+UID:MS-15249-windsoraaazone.net
+DTSTAMP:20151101T215845Z
+SUMMARY:Minor Atom (06) - Game @ London Jr Knights [PMA156](L 2-9)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ London Jr Knights 3:15-4:45\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191936
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160102T171500Z
+DTEND:20160102T184500Z
+LOCATION:Komoka CW&RC (1 - Molson)
+UID:MS-15269-windsoraaazone.net
+DTSTAMP:20150722T014703Z
+SUMMARY:Minor Atom (06) - Game @ Elgin-Middlesex Chiefs [PMA124]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Elgin-Middlesex Chiefs 12:15-1:45\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191904
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151031T161500Z
+DTEND:20151031T174500Z
+LOCATION:Komoka CW&RC (1 - Molson)
+UID:MS-15271-windsoraaazone.net
+DTSTAMP:20151031T180230Z
+SUMMARY:Minor Atom (06) - Game @ Elgin-Middlesex Chiefs [PMA113](L 0-6)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Elgin-Middlesex Chiefs 12:15-1:45\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191909
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160109T170000Z
+DTEND:20160109T183000Z
+LOCATION:RBC Centre (Rink 1)
+UID:MS-15285-windsoraaazone.net
+DTSTAMP:20150722T211010Z
+SUMMARY:Minor Atom (06) - Game @ Lambton Jr Sting [PMA129]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Lambton Jr Sting 12:00-1:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191925
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151205T170000Z
+DTEND:20151205T183000Z
+LOCATION:RBC Centre (Rink 1)
+UID:MS-15287-windsoraaazone.net
+DTSTAMP:20150722T215444Z
+SUMMARY:Minor Atom (06) - Game @ Lambton Jr Sting [PMA139]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Lambton Jr Sting 12:00-1:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191920
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160131T203000Z
+DTEND:20160131T220000Z
+LOCATION:Memorial
+UID:MS-15322-windsoraaazone.net
+DTSTAMP:20150731T171006Z
+SUMMARY:Minor Atom (06) - Game @ Chatham-Kent Cyclones [PMA103]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Chatham-Kent Cyclones 3:30-5:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191893
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150920T193000Z
+DTEND:20150920T210000Z
+LOCATION:Memorial
+UID:MS-15337-windsoraaazone.net
+DTSTAMP:20150920T205105Z
+SUMMARY:Minor Atom (06) - Game @ Chatham-Kent Cyclones [PMA108](L 1-7)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Chatham-Kent Cyclones 3:30-5:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191888
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150912T183000Z
+DTEND:20150912T200000Z
+LOCATION:Essex (Libro)
+UID:MS-15350-windsoraaazone.net
+DTSTAMP:20150913T130131Z
+SUMMARY:Minor Atom (06) - Game @ Sun County Panthers [PMA167](L 2-6)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Sun County Panthers 2:30-4:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191957
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151218T000000Z
+DTEND:20151218T013000Z
+LOCATION:Essex (Libro)
+UID:MS-15351-windsoraaazone.net
+DTSTAMP:20150811T010226Z
+SUMMARY:Minor Atom (06) - Game @ Sun County Panthers [PMA172]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Sun County Panthers 7:00-8:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191952
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151016T223000Z
+DTEND:20151017T000000Z
+LOCATION:Kensington Valley Ice House - East
+UID:MS-15447-windsoraaazone.net
+DTSTAMP:20151017T154241Z
+SUMMARY:Minor Atom (06) - Game @ Chicago Bulldogs [8](L 0-7)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Chicago Bulldogs 6:30-8:00\r\n\r\nMAP: http://maps.google.com?q=Kensington+Valley+Ice+House+-+East
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151017T123000Z
+DTEND:20151017T140000Z
+LOCATION:Kensington Valley Ice House - South
+UID:MS-15448-windsoraaazone.net
+DTSTAMP:20151017T154305Z
+SUMMARY:Minor Atom (06) - Game @ London Jr Knights [10](L 3-8)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ London Jr Knights 8:30-10:00\r\n\r\nMAP: http://maps.google.com?q=Kensington+Valley+Ice+House+-+South
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T155500Z
+DTEND:20151107T172500Z
+LOCATION:Chesswood Arena
+UID:MS-15486-windsoraaazone.net
+DTSTAMP:20151108T034740Z
+SUMMARY:Minor Atom (06) - Game @ Toronto Red Wings(L 2-7)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Toronto Red Wings 10:55-12:25\r\n\r\nMAP: http://maps.google.com?q=Chesswood+Arena
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T195500Z
+DTEND:20151107T212500Z
+LOCATION:Chesswood Arena
+UID:MS-15487-windsoraaazone.net
+DTSTAMP:20151108T034753Z
+SUMMARY:Minor Atom (06) - Game @ Central Ontario Wolves(W 6-2)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) @ Central Ontario Wolves 2:55-4:25\r\n\r\nMAP: http://maps.google.com?q=Chesswood+Arena
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151114T223000Z
+DTEND:20151115T000000Z
+LOCATION:Central Park  North
+UID:MS-15143-windsoraaazone.net
+DTSTAMP:20150702T144712Z
+SUMMARY:Minor Atom (06) - Game vs Cambridge Hawks [PMA179]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Cambridge Hawks 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191975
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150927T153000Z
+DTEND:20150927T170000Z
+LOCATION:Central Park  North
+UID:MS-15150-windsoraaazone.net
+DTSTAMP:20150927T163736Z
+SUMMARY:Minor Atom (06) - Game vs Waterloo Wolves [PMA192](L 6-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Waterloo Wolves 11:30-1:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191979
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151219T223000Z
+DTEND:20151220T000000Z
+LOCATION:Central Park  North
+UID:MS-15176-windsoraaazone.net
+DTSTAMP:20150706T171128Z
+SUMMARY:Minor Atom (06) - Game vs Hamilton Huskies [PMA178]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Hamilton Huskies 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191976
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151004T150000Z
+DTEND:20151004T163000Z
+LOCATION:Central Park  North
+UID:MS-15214-windsoraaazone.net
+DTSTAMP:20151005T104316Z
+SUMMARY:Minor Atom (06) - Game vs Kitchener Jr Rangers [PMA190](W 4-7)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Kitchener Jr Rangers 11:00-12:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191978
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151121T223000Z
+DTEND:20151122T000000Z
+LOCATION:Central Park  North
+UID:MS-15215-windsoraaazone.net
+DTSTAMP:20150724T023638Z
+SUMMARY:Minor Atom (06) - Game vs Huron-Perth Lakers [PMA177]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Huron-Perth Lakers 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191977
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160103T170000Z
+DTEND:20160103T183000Z
+LOCATION:Central Park  North
+UID:MS-15216-windsoraaazone.net
+DTSTAMP:20150720T020110Z
+SUMMARY:Minor Atom (06) - Game vs Brantford 99ers [PMA180]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Brantford 99ers 12:00-1:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191974
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150913T153000Z
+DTEND:20150913T170000Z
+LOCATION:Central Park  North
+UID:MS-15247-windsoraaazone.net
+DTSTAMP:20150914T010015Z
+SUMMARY:Minor Atom (06) - Game vs London Jr Knights [PMA186](L 8-3)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs London Jr Knights 11:30-1:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191967
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151227T170000Z
+DTEND:20151227T183000Z
+LOCATION:Central Park  North
+UID:MS-15254-windsoraaazone.net
+DTSTAMP:20150721T014547Z
+SUMMARY:Minor Atom (06) - Game vs London Jr Knights [PMA182]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs London Jr Knights 12:00-1:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191972
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160130T223000Z
+DTEND:20160131T000000Z
+LOCATION:Central Park  North
+UID:MS-15263-windsoraaazone.net
+DTSTAMP:20150721T134549Z
+SUMMARY:Minor Atom (06) - Game vs Elgin-Middlesex Chiefs [PMA188]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Elgin-Middlesex Chiefs 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191965
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160116T210000Z
+DTEND:20160116T223000Z
+LOCATION:Central Park  North
+UID:MS-15293-windsoraaazone.net
+DTSTAMP:20150723T123614Z
+SUMMARY:Minor Atom (06) - Game vs Lambton Jr Sting [PMA183]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Lambton Jr Sting 4:00-5:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191971
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151206T180000Z
+DTEND:20151206T193000Z
+LOCATION:Central Park  North
+UID:MS-15295-windsoraaazone.net
+DTSTAMP:20150724T125235Z
+SUMMARY:Minor Atom (06) - Game vs Elgin-Middlesex Chiefs [PMA191]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Elgin-Middlesex Chiefs 1:00-2:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191970
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150919T213000Z
+DTEND:20150919T230000Z
+LOCATION:Central Park  North
+UID:MS-15297-windsoraaazone.net
+DTSTAMP:20150920T021031Z
+SUMMARY:Minor Atom (06) - Game vs Lambton Jr Sting [PMA187](L 5-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Lambton Jr Sting 5:30-7:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191966
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151222T230000Z
+DTEND:20151223T003000Z
+LOCATION:Central Park  North
+UID:MS-15318-windsoraaazone.net
+DTSTAMP:20150811T121712Z
+SUMMARY:Minor Atom (06) - Game vs Chatham-Kent Cyclones [PMA185]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Chatham-Kent Cyclones 6:00-7:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191969
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160204T233000Z
+DTEND:20160205T010000Z
+LOCATION:Central Park  North
+UID:MS-15339-windsoraaazone.net
+DTSTAMP:20150812T144348Z
+SUMMARY:Minor Atom (06) - Game vs Chatham-Kent Cyclones [PMA189]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Chatham-Kent Cyclones 6:30-8:00\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191964
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151115T150000Z
+DTEND:20151115T163000Z
+LOCATION:Central Park  North
+UID:MS-15363-windsoraaazone.net
+DTSTAMP:20150811T115044Z
+SUMMARY:Minor Atom (06) - Game vs Sun County Panthers [PMA181]
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Sun County Panthers 10:00-11:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191973
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151021T220000Z
+DTEND:20151021T233000Z
+LOCATION:Central Park  North
+UID:MS-15365-windsoraaazone.net
+DTSTAMP:20151022T012737Z
+SUMMARY:Minor Atom (06) - Game vs Sun County Panthers [PMA184](W 0-5)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Sun County Panthers 6:00-7:30\r\n\r\nMAP: http://www.theonedb.com/Venues/FindForGame/1191968
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151016T160000Z
+DTEND:20151016T173000Z
+LOCATION:Kensington Valley Ice House - South
+UID:MS-15446-windsoraaazone.net
+DTSTAMP:20151017T154226Z
+SUMMARY:Minor Atom (06) - Game vs Florida Alliance AAA [12](L 9-3)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Florida Alliance AAA 12:00-1:30\r\n\r\nMAP: http://maps.google.com?q=Kensington+Valley+Ice+House+-+South
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151017T183000Z
+DTEND:20151017T200000Z
+LOCATION:Kensington Valley Ice Hose - South
+UID:MS-15449-windsoraaazone.net
+DTSTAMP:20151017T230412Z
+SUMMARY:Minor Atom (06) - Game vs Southern Tier Admirals [CON 10](W 4-13)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Southern Tier Admirals 2:30-4:00\r\n\r\nMAP: http://maps.google.com?q=Kensington+Valley+Ice+Hose+-+South
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151106T155500Z
+DTEND:20151106T172500Z
+LOCATION:Chesswood Arena
+UID:MS-15484-windsoraaazone.net
+DTSTAMP:20151108T034705Z
+SUMMARY:Minor Atom (06) - Game vs Cambridge Hawks(L 6-4)
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) vs Cambridge Hawks 10:55-12:25\r\n\r\nMAP: http://maps.google.com?q=Chesswood+Arena
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150901T210000Z
+DTEND:20150901T223000Z
+LOCATION:Central Park  North
+UID:MS-14636-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150908T210000Z
+DTEND:20150908T223000Z
+LOCATION:Central Park  North
+UID:MS-14637-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150915T210000Z
+DTEND:20150915T223000Z
+LOCATION:Central Park  North
+UID:MS-14638-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150922T210000Z
+DTEND:20150922T223000Z
+LOCATION:Central Park  North
+UID:MS-14639-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150929T210000Z
+DTEND:20150929T223000Z
+LOCATION:Central Park  North
+UID:MS-14640-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151006T210000Z
+DTEND:20151006T223000Z
+LOCATION:Central Park  North
+UID:MS-14641-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151013T210000Z
+DTEND:20151013T223000Z
+LOCATION:Central Park  North
+UID:MS-14642-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151020T210000Z
+DTEND:20151020T223000Z
+LOCATION:Central Park  North
+UID:MS-14643-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151027T210000Z
+DTEND:20151027T223000Z
+LOCATION:Central Park  North
+UID:MS-14644-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151103T220000Z
+DTEND:20151103T233000Z
+LOCATION:Central Park  North
+UID:MS-14645-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151110T220000Z
+DTEND:20151110T233000Z
+LOCATION:Central Park  North
+UID:MS-14646-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151117T220000Z
+DTEND:20151117T233000Z
+LOCATION:Central Park  North
+UID:MS-14647-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151124T220000Z
+DTEND:20151124T233000Z
+LOCATION:Central Park  North
+UID:MS-14648-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151201T220000Z
+DTEND:20151201T233000Z
+LOCATION:Central Park  North
+UID:MS-14649-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151208T220000Z
+DTEND:20151208T233000Z
+LOCATION:Central Park  North
+UID:MS-14650-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151215T220000Z
+DTEND:20151215T233000Z
+LOCATION:Central Park  North
+UID:MS-14651-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151229T220000Z
+DTEND:20151229T233000Z
+LOCATION:Central Park  North
+UID:MS-14653-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160105T220000Z
+DTEND:20160105T233000Z
+LOCATION:Central Park  North
+UID:MS-14654-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160112T220000Z
+DTEND:20160112T233000Z
+LOCATION:Central Park  North
+UID:MS-14655-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160119T220000Z
+DTEND:20160119T233000Z
+LOCATION:Central Park  North
+UID:MS-14656-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160126T220000Z
+DTEND:20160126T233000Z
+LOCATION:Central Park  North
+UID:MS-14657-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160202T220000Z
+DTEND:20160202T233000Z
+LOCATION:Central Park  North
+UID:MS-14658-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160209T220000Z
+DTEND:20160209T233000Z
+LOCATION:Central Park  North
+UID:MS-14659-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160216T220000Z
+DTEND:20160216T233000Z
+LOCATION:Central Park  North
+UID:MS-14660-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160223T220000Z
+DTEND:20160223T233000Z
+LOCATION:Central Park  North
+UID:MS-14661-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160301T220000Z
+DTEND:20160301T233000Z
+LOCATION:Central Park  North
+UID:MS-14662-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160308T220000Z
+DTEND:20160308T233000Z
+LOCATION:Central Park  North
+UID:MS-14663-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160315T210000Z
+DTEND:20160315T223000Z
+LOCATION:Central Park  North
+UID:MS-14664-windsoraaazone.net
+DTSTAMP:20150529T220739Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150903T210000Z
+DTEND:20150903T223000Z
+LOCATION:Central Park  North
+UID:MS-14665-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150910T210000Z
+DTEND:20150910T223000Z
+LOCATION:Central Park  North
+UID:MS-14666-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150917T210000Z
+DTEND:20150917T223000Z
+LOCATION:Central Park  North
+UID:MS-14667-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150924T210000Z
+DTEND:20150924T223000Z
+LOCATION:Central Park  North
+UID:MS-14668-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151001T210000Z
+DTEND:20151001T223000Z
+LOCATION:Central Park  North
+UID:MS-14669-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151008T210000Z
+DTEND:20151008T223000Z
+LOCATION:Central Park  North
+UID:MS-14670-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151015T210000Z
+DTEND:20151015T223000Z
+LOCATION:Central Park  North
+UID:MS-14671-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151029T210000Z
+DTEND:20151029T223000Z
+LOCATION:Central Park  North
+UID:MS-14673-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151105T220000Z
+DTEND:20151105T233000Z
+LOCATION:Central Park  North
+UID:MS-14674-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151112T220000Z
+DTEND:20151112T233000Z
+LOCATION:Central Park  North
+UID:MS-14675-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151119T220000Z
+DTEND:20151119T233000Z
+LOCATION:Central Park  North
+UID:MS-14676-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151126T220000Z
+DTEND:20151126T233000Z
+LOCATION:Central Park  North
+UID:MS-14677-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151203T220000Z
+DTEND:20151203T233000Z
+LOCATION:Central Park  North
+UID:MS-14678-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151210T220000Z
+DTEND:20151210T233000Z
+LOCATION:Central Park  North
+UID:MS-14679-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160107T220000Z
+DTEND:20160107T233000Z
+LOCATION:Central Park  North
+UID:MS-14683-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160114T220000Z
+DTEND:20160114T233000Z
+LOCATION:Central Park  North
+UID:MS-14684-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160121T220000Z
+DTEND:20160121T233000Z
+LOCATION:Central Park  North
+UID:MS-14685-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160128T220000Z
+DTEND:20160128T233000Z
+LOCATION:Central Park  North
+UID:MS-14686-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160211T220000Z
+DTEND:20160211T233000Z
+LOCATION:Central Park  North
+UID:MS-14688-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160218T220000Z
+DTEND:20160218T233000Z
+LOCATION:Central Park  North
+UID:MS-14689-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160225T220000Z
+DTEND:20160225T233000Z
+LOCATION:Central Park  North
+UID:MS-14690-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160303T220000Z
+DTEND:20160303T233000Z
+LOCATION:Central Park  North
+UID:MS-14691-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160310T220000Z
+DTEND:20160310T233000Z
+LOCATION:Central Park  North
+UID:MS-14692-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160317T210000Z
+DTEND:20160317T223000Z
+LOCATION:Central Park  North
+UID:MS-14693-windsoraaazone.net
+DTSTAMP:20150529T220849Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 5:00-6:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151216T213000Z
+DTEND:20151216T230000Z
+LOCATION:Central Park  North
+UID:MS-15399-windsoraaazone.net
+DTSTAMP:20150812T145035Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 4:30-6:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150906T180000Z
+DTEND:20150906T200000Z
+LOCATION:Central Park  North
+UID:MS-15420-windsoraaazone.net
+DTSTAMP:20150903T175855Z
+SUMMARY:Minor Atom (06) - Practice
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Practice 2:00-4:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150414T213000Z
+DTEND:20150414T230000Z
+LOCATION:Central Park  North
+UID:MS-14100-windsoraaazone.net
+DTSTAMP:20150313T003532Z
+SUMMARY:Minor Atom (06) - Tryout
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Tryout 5:30-7:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150416T213000Z
+DTEND:20150416T230000Z
+LOCATION:Central Park  North
+UID:MS-14101-windsoraaazone.net
+DTSTAMP:20150313T003544Z
+SUMMARY:Minor Atom (06) - Tryout
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Tryout 5:30-7:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150421T213000Z
+DTEND:20150421T230000Z
+LOCATION:Central Park  North
+UID:MS-14102-windsoraaazone.net
+DTSTAMP:20150313T003549Z
+SUMMARY:Minor Atom (06) - Tryout
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Tryout 5:30-7:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150423T213000Z
+DTEND:20150423T230000Z
+LOCATION:Central Park  North
+UID:MS-14103-windsoraaazone.net
+DTSTAMP:20150313T003555Z
+SUMMARY:Minor Atom (06) - Tryout
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Tryout 5:30-7:00\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150413T220000Z
+DTEND:20150413T233000Z
+LOCATION:Central Park  North
+UID:MS-14130-windsoraaazone.net
+DTSTAMP:20150313T012711Z
+SUMMARY:Minor Atom (06) - Goalies Only
+DESCRIPTION:Minor Atom (06) - Minor Atom (06) Goalies Only 6:00-7:30\r\n\r\nMAP: http://maps.google.com?q=Central+Park++North
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151223T230000Z
+DTEND:20151224T003000Z
+LOCATION:Lanspeary Park
+UID:MD-3805-windsoraaazone.net
+DTSTAMP:20151026T182121Z
+SUMMARY:Minor Atom (06) - **WINTER CLASSIC** Windsor vs Sun County
+DESCRIPTION:Full Event Details - http://windsoraaazone.net/Events/3805/_WINTER_CLASSIC_Windsor_vs_Sun_County/
+URL:http://windsoraaazone.net/Events/3805/_WINTER_CLASSIC_Windsor_vs_Sun_County/
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151018
+LOCATION:Detroit MI
+UID:MD-3597-windsoraaazone.net
+DTSTAMP:20151006T133715Z
+SUMMARY:Minor Atom (06) - Warrior 
+TRANSP:TRANSPARENT
+DESCRIPTION:Kensington Valley Ice House\r\n \r\n\r\n10540 Citation Dr\, Brighton\, MI 48116\r\n (810) 494-5555\r\n\r\n \r\n\r\nDirections\r\n\r\n \r\n\r\n'06 Divisions\r\n\r\n\r\n\r\n Full Tournament Details - http://windsoraaazone.net/Tournaments/3597/Warrior_/
+URL:http://windsoraaazone.net/Tournaments/3597/Warrior_/
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151106
+DTEND;VALUE=DATE:20151108
+LOCATION:Toronto ON
+UID:MD-3596-windsoraaazone.net
+DTSTAMP:20150529T125801Z
+SUMMARY:Minor Atom (06) - Shanahan International
+TRANSP:TRANSPARENT
+DESCRIPTION:Full Tournament Details - http://windsoraaazone.net/Tournaments/3596/Shanahan_International/
+URL:http://windsoraaazone.net/Tournaments/3596/Shanahan_International/
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151210
+DTEND;VALUE=DATE:20151213
+LOCATION:Vaughan ON
+UID:MD-3595-windsoraaazone.net
+DTSTAMP:20150529T125654Z
+SUMMARY:Minor Atom (06) - Vaughan Kings Classic
+TRANSP:TRANSPARENT
+DESCRIPTION:Full Tournament Details - http://windsoraaazone.net/Tournaments/3595/Vaughan_Kings_Classic/
+URL:http://windsoraaazone.net/Tournaments/3595/Vaughan_Kings_Classic/
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160124
+LOCATION:Ann Arbor MI
+UID:MD-3627-windsoraaazone.net
+DTSTAMP:20150610T183728Z
+SUMMARY:Minor Atom (06) - Nations Cup
+TRANSP:TRANSPARENT
+DESCRIPTION:Full Tournament Details - http://windsoraaazone.net/Tournaments/3627/Nations_Cup/
+URL:http://windsoraaazone.net/Tournaments/3627/Nations_Cup/
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
