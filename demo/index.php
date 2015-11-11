@@ -2,7 +2,8 @@
 
 include '../vendor/autoload.php';
 
-use Icalreader\Icalreader;
+use Httpful\Request;
+use Icalreader\Webcal;
 
 function p($data)
 {
@@ -11,14 +12,16 @@ function p($data)
 	exit;
 }
 
-//$ical = new Icalreader("google_ical.ics");
+// webcal://windsoraaazone.net/webcal.ashx?IDs=1042
 
-//$ical = new Icalreader("google_except_test.ics");
+$webcal = new Webcal('http://windsoraaazone.net/webcal.ashx?IDs=1042');
 
-//$ical = new Icalreader("google_except_test2.ics");
+$events = $webcal->parse();
 
-$ical = new Icalreader("webcal.ics");
-
-$events = $ical->events();
-
+foreach ($events as $key => $val) {
+	$events[$key]['times'][0]['start'] = strtotime($val['start']);
+	$events[$key]['times'][0]['end']   = strtotime($val['end']);
+	unset($events[$key]['start']);
+	unset($events[$key]['end']);
+}
 p($events);
